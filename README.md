@@ -8,7 +8,7 @@ This program are used to graficate data.
 
 ## Method of use
 
-You will introduce a csv document, an then pulse go. In the second window you can select the data will be displayed.
+You will introduce a csv document, then pulse go. In the second window you can select the data will be displayed.
 
 ---
 
