@@ -2,7 +2,7 @@
 
 ## Description
 
-This program are used to graficate data.
+This program are used to show graphs data.
 
 ---
 
