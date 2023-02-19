@@ -17,7 +17,7 @@ You will introduce a csv document, then pulse go. In the second window you can s
 - Bar graphs
 - Lineal graphs
 - Dispersion graphs
-- Combinate diferent datatypes i axis X and Y
+- Combinate diferent datatypes in axis X and Y
 - Download a graph image
 
 ---
