@@ -8,7 +8,7 @@ class GraphWindow():
     def __init__(self, path):
         #Root
         self._root = Tk()
-        self._root.title("Grafics")
+        self._root.title("Graphs")
         self._root.iconbitmap("icons\\icon.ico")
         self._root.resizable(False, False)
         self._root.columnconfigure(0, weight=3)
