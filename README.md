@@ -1,4 +1,4 @@
-# CSV GRAFIKATOR
+# CSV GRAPHS TKINTER
 
 ## Description
 
